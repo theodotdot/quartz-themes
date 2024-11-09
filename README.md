@@ -128,9 +128,9 @@ If you want something closer to Obsidian Publish's layout, set the following in 
 ```
 
 ### Themes
+
 > [!IMPORTANT]  
 > For Catppuccin themes, make sure to add the accent to the path in the import!
-
 
 #### Light Mode
 
