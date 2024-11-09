@@ -127,24 +127,29 @@ If you want something closer to Obsidian Publish's layout, set the following in 
 @import "quartz-themes/layouts/minimal";
 ```
 
-### Light Mode
+### Themes
+> [!IMPORTANT]  
+> For Catppuccin themes, make sure to add the accent to the path in the import!
+
+
+#### Light Mode
 
 Add your desired dark theme to `light.scss`.
 
 ```scss
 // light.scss
 // Use Catppuccin Latte for light mode
-@import "quartz-themes/themes/catppuccin/latte";
+@import "quartz-themes/themes/catppuccin/latte/blue";
 ```
 
-### Dark Mode
+#### Dark Mode
 
 Add your desired dark theme to `dark.scss`.
 
 ```scss
 // dark.scss
 // Use Catppuccin Frappe for dark mode
-@import "quartz-themes/themes/catppuccin/frappe";
+@import "quartz-themes/themes/catppuccin/frappe/blue";
 ```
 
 ## FAQ

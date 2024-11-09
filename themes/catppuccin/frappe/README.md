@@ -13,12 +13,12 @@ A less vibrant alternative using subdued colors for a muted aesthetic.
 
 ```scss
 // In dark.scss
-@import "quartz-themes/themes/catppuccin/frappe";
+@import "quartz-themes/themes/catppuccin/frappe/<accent>";
 ```
 
 ## Preview
 
 <details>
 <summary>🪴 Frappé</summary>
-<img src="preview.png" alt="Preview of Frappe theme"/>
+<img src="preview.png" alt="Preview of Frappe theme with blue accent"/>
 </details>

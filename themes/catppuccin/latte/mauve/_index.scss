@@ -1,40 +1,40 @@
-@import "../../../default";
+@import "../../../../default";
 
 $background: #eff1f5;
 $border: #bcc0cc;
-$lines: #7287fd;
+$lines: #dc8a78;
 $text: #4c4f69;
 $header-text: #6c6f85;
-$special-text: #1e66f5;
-$hover: #209fb5;
-$links-background: #1e66f533;
+$special-text: #8839ef;
+$hover: #ea76cb;
+$links-background: #8839ef33;
 $highlight: #7c7f934d;
 
 $callouts: (
   "note": (
-    "color": #1e66f5,
-    "border": #1e66f544,
-    "background": #1e66f510,
+    "color": #8839ef,
+    "border": #8839ef44,
+    "background": #8839ef10,
   ),
   "abstract": (
-    "color": #209fb5,
-    "border": #209fb544,
-    "background": #209fb510,
+    "color": #ea76cb,
+    "border": #ea76cb44,
+    "background": #ea76cb10,
   ),
   "info": (
-    "color": #1e66f5,
-    "border": #1e66f544,
-    "background": #1e66f510,
+    "color": #8839ef,
+    "border": #8839ef44,
+    "background": #8839ef10,
   ),
   "todo": (
-    "color": #1e66f5,
-    "border": #1e66f544,
-    "background": #1e66f510,
+    "color": #8839ef,
+    "border": #8839ef44,
+    "background": #8839ef10,
   ),
   "tip": (
-    "color": #209fb5,
-    "border": #209fb544,
-    "background": #209fb510,
+    "color": #ea76cb,
+    "border": #ea76cb44,
+    "background": #ea76cb10,
   ),
   "success": (
     "color": #40a02b,

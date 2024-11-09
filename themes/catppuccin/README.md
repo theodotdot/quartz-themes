@@ -4,9 +4,10 @@
 
 [Palette](https://catppuccin.com/palette)
 
-- **Default**: [Mocha (DARK)](mocha/README.md)
+- **Default**: [Mocha w/Blue accent (DARK)](mocha/README.md)
 - **Type**: `LIGHT`/`DARK`
 - **Flavors**: [Frappe (DARK)](frappe/README.md), [Latte (LIGHT)](latte/README.md), [Macchiato (DARK)](macchiato/README.md), [Mocha (DARK)](mocha/README.md)
+- **Accent**: Blue or Mauve
 
 Soothing pastel theme for the high-spirited!
 
@@ -18,21 +19,21 @@ Soothing pastel theme for the high-spirited!
 
 ```scss
 // In dark.scss
-@import "quartz-themes/themes/catppuccin/frappe";
+@import "quartz-themes/themes/catppuccin/frappe/<accent>";
 ```
 
 #### Macchiato
 
 ```scss
 // In dark.scss
-@import "quartz-themes/themes/catppuccin/macchiato";
+@import "quartz-themes/themes/catppuccin/macchiato/<accent>";
 ```
 
 #### Mocha
 
 ```scss
 // In dark.scss
-@import "quartz-themes/themes/catppuccin/mocha";
+@import "quartz-themes/themes/catppuccin/mocha/<accent>";
 ```
 
 ### Light
@@ -41,7 +42,7 @@ Soothing pastel theme for the high-spirited!
 
 ```scss
 // In light.scss
-@import "quartz-themes/themes/catppuccin/latte";
+@import "quartz-themes/themes/catppuccin/latte/<accent>";
 ```
 
 ## Previews
@@ -50,22 +51,22 @@ Soothing pastel theme for the high-spirited!
 
 <details>
 <summary>🪴 Frappé</summary>
-<img src="frappe/preview.png" alt="Preview of Frappe theme"/>
+<img src="frappe/preview.png" alt="Preview of Frappe theme with blue accent"/>
 </details>
 
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="macchiato/preview.png" alt="Preview of Macchiato theme"/>
+<img src="macchiato/preview.png" alt="Preview of Macchiato theme with blue accent"/>
 </details>
 
 <details>
 <summary>🌿 Mocha</summary>
-<img src="mocha/preview.png" alt="Preview of Mocha theme"/>
+<img src="mocha/preview.png" alt="Preview of Mocha theme with blue accent"/>
 </details>
 
 ### Light
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="latte/preview.png" alt="Preview of Latte theme"/>
+<img src="latte/preview.png" alt="Preview of Latte theme with blue accent"/>
 </details>

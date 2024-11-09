@@ -13,12 +13,12 @@ The Original — Our darkest variant offering a cozy feeling with color-rich acc
 
 ```scss
 // In dark.scss
-@import "quartz-themes/themes/catppuccin/mocha";
+@import "quartz-themes/themes/catppuccin/mocha/<accent>";
 ```
 
 ## Preview
 
 <details>
 <summary>🌿 Mocha</summary>
-<img src="preview.png" alt="Preview of Mocha theme"/>
+<img src="preview.png" alt="Preview of Mocha theme with blue accent"/>
 </details>

@@ -13,12 +13,12 @@ Our lightest theme harmoniously inverting the essence of Catppuccin's dark theme
 
 ```scss
 // In light.scss
-@import "quartz-themes/themes/catppuccin/latte";
+@import "quartz-themes/themes/catppuccin/latte/<accent>";
 ```
 
 ## Preview
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="preview.png" alt="Preview of Latte theme"/>
+<img src="preview.png" alt="Preview of Latte theme with blue accent"/>
 </details>
