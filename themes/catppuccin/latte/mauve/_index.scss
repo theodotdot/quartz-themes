@@ -1,0 +1,79 @@
+@import "../../../../default";
+
+$background: #eff1f5;
+$border: #bcc0cc;
+$lines: #dc8a78;
+$text: #4c4f69;
+$header-text: #6c6f85;
+$special-text: #8839ef;
+$hover: #ea76cb;
+$links-background: #8839ef33;
+$highlight: #7c7f934d;
+
+$callouts: (
+  "note": (
+    "color": #8839ef,
+    "border": #8839ef44,
+    "background": #8839ef10,
+  ),
+  "abstract": (
+    "color": #ea76cb,
+    "border": #ea76cb44,
+    "background": #ea76cb10,
+  ),
+  "info": (
+    "color": #8839ef,
+    "border": #8839ef44,
+    "background": #8839ef10,
+  ),
+  "todo": (
+    "color": #8839ef,
+    "border": #8839ef44,
+    "background": #8839ef10,
+  ),
+  "tip": (
+    "color": #ea76cb,
+    "border": #ea76cb44,
+    "background": #ea76cb10,
+  ),
+  "success": (
+    "color": #40a02b,
+    "border": #40a02b44,
+    "background": #40a02b10,
+  ),
+  "question": (
+    "color": #df8e1d,
+    "border": #df8e1d44,
+    "background": #df8e1d10,
+  ),
+  "warning": (
+    "color": #fe640b,
+    "border": #fe640b44,
+    "background": #fe640b10,
+  ),
+  "failure": (
+    "color": #d20f39,
+    "border": #d20f3944,
+    "background": #d20f3910,
+  ),
+  "danger": (
+    "color": #d20f39,
+    "border": #d20f3944,
+    "background": #d20f3910,
+  ),
+  "bug": (
+    "color": #d20f39,
+    "border": #d20f3944,
+    "background": #d20f3910,
+  ),
+  "example": (
+    "color": #8839ef,
+    "border": #8839ef44,
+    "background": #8839ef10,
+  ),
+  "quote": (
+    "color": #7c7f93,
+    "border": #7c7f9344,
+    "background": #7c7f9310,
+  ),
+);
